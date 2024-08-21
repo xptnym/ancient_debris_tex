@@ -1,0 +1,7 @@
+﻿ {
+    "pack": {
+        "pack_format": 34,
+        "description": "Textures that remind us of ancient debris.",
+			"supported_formats": [15, 18, 22, 32, 34]
+    }
+}
