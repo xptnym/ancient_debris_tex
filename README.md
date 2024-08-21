@@ -3,7 +3,7 @@
 
 # ダウンロード方法
 - [リリースページ](https://github.com/xptnym/ancient_debris_tex/releases/latest)にアクセスします．
-- ``.zip``をクリックしてダウンロードします．
+- ``ancient_debris_tex.zip``をクリックしてダウンロードします．
 
 # バージョンについて
 現在，  
